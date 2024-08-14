@@ -6,14 +6,14 @@ import { Analytics } from "./components/analytics";
 
 export const metadata: Metadata = {
   title: {
-    default: "maceock.me",
-    template: "%s | maceock.me",
+    default: "MaceoCK",
+    template: "%s | MaceoCK",
   },
-  description: "Co-founder of unkey.dev and founder of planetfall.io",
+  description: "Student at Virginia Tech",
   openGraph: {
-    title: "maceock.me",
+    title: "MaceoCK",
     description:
-      "Co-founder of unkey.dev and founder of planetfall.io",
+      "Student at Virginia Tech",
     url: "https://maceock.me",
     siteName: "maceock.me",
     images: [
