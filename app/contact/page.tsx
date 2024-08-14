@@ -13,7 +13,7 @@ const socials = [
 	},
 	{
 		icon: <Mail size={20} />,
-		href: "mailto:maceo@vt.edu",
+		href: "mailto:Maceo@vt.edu",
 		label: "Email",
 		handle: "maceo@vt.edu",
 	},
@@ -21,7 +21,7 @@ const socials = [
 		icon: <Github size={20} />,
 		href: "https://github.com/maceock",
 		label: "Github",
-		handle: "maceock",
+		handle: "MaceoCK",
 	},
 ];
 
