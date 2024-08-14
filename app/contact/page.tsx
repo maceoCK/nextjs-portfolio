@@ -13,9 +13,9 @@ const socials = [
 	},
 	{
 		icon: <Mail size={20} />,
-		href: "mailto:maceo.ck@gmail.com",
+		href: "mailto:maceo@vt.edu",
 		label: "Email",
-		handle: "maceo.ck@gmail.com",
+		handle: "maceo@vt.edu",
 	},
 	{
 		icon: <Github size={20} />,
