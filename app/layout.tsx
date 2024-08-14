@@ -2,6 +2,8 @@ import "../global.css";
 import { Inter } from "next/font/google";
 import LocalFont from "next/font/local";
 import { Metadata } from "next";
+import { Analytics as VercelAnalytics } from '@vercel/analytics/react';
+import { SpeedInsights } from "@vercel/speed-insights/next"
 import { Analytics } from "./components/analytics";
 
 export const metadata: Metadata = {
@@ -70,6 +72,8 @@ export default function RootLayout({
           }`}
       >
         {children}
+        <VercelAnalytics />
+        <SpeedInsights />
       </body>
     </html>
   );
