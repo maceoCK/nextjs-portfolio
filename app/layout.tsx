@@ -51,8 +51,8 @@ export const metadata: Metadata = {
     shortcut: "/favicon.png",
   },
   verification: {
-    google: 'your-google-site-verification-code',
-    yandex: 'your-yandex-verification-code',
+    google: 'Pzfkm9mPwqxo1GubXwKnbemBiZF9_4xQM8EPBxI3vJE',
+    yandex: '48273cdb7547d66b',
   },
   viewport: {
     width: 'device-width',
